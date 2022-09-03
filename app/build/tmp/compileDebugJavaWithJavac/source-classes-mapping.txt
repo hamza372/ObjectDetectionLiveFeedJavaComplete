@@ -1,0 +1,36 @@
+com/example/objectdetectionlivefeed/Drawing/MultiBoxTracker.java
+ com.example.objectdetectionlivefeed.Drawing.MultiBoxTracker
+ com.example.objectdetectionlivefeed.Drawing.MultiBoxTracker$1
+ com.example.objectdetectionlivefeed.Drawing.MultiBoxTracker$TrackedRecognition
+com/example/objectdetectionlivefeed/livefeed/AutoFitTextureView.java
+ com.example.objectdetectionlivefeed.livefeed.AutoFitTextureView
+com/example/objectdetectionlivefeed/livefeed/ImageUtils.java
+ com.example.objectdetectionlivefeed.livefeed.ImageUtils
+com/example/objectdetectionlivefeed/MainActivity.java
+ com.example.objectdetectionlivefeed.MainActivity
+ com.example.objectdetectionlivefeed.MainActivity$1
+ com.example.objectdetectionlivefeed.MainActivity$1$1
+ com.example.objectdetectionlivefeed.MainActivity$2
+ com.example.objectdetectionlivefeed.MainActivity$3
+ com.example.objectdetectionlivefeed.MainActivity$4
+com/example/objectdetectionlivefeed/ML/Classifier.java
+ com.example.objectdetectionlivefeed.ML.Classifier
+ com.example.objectdetectionlivefeed.ML.Classifier$Recognition
+com/example/objectdetectionlivefeed/BuildConfig.java
+ com.example.objectdetectionlivefeed.BuildConfig
+com/example/objectdetectionlivefeed/Drawing/BorderedText.java
+ com.example.objectdetectionlivefeed.Drawing.BorderedText
+com/example/objectdetectionlivefeed/Drawing/OverlayView.java
+ com.example.objectdetectionlivefeed.Drawing.OverlayView
+ com.example.objectdetectionlivefeed.Drawing.OverlayView$DrawCallback
+com/example/objectdetectionlivefeed/livefeed/CameraConnectionFragment.java
+ com.example.objectdetectionlivefeed.livefeed.CameraConnectionFragment
+ com.example.objectdetectionlivefeed.livefeed.CameraConnectionFragment$1
+ com.example.objectdetectionlivefeed.livefeed.CameraConnectionFragment$2
+ com.example.objectdetectionlivefeed.livefeed.CameraConnectionFragment$3
+ com.example.objectdetectionlivefeed.livefeed.CameraConnectionFragment$4
+ com.example.objectdetectionlivefeed.livefeed.CameraConnectionFragment$5
+ com.example.objectdetectionlivefeed.livefeed.CameraConnectionFragment$CompareSizesByArea
+ com.example.objectdetectionlivefeed.livefeed.CameraConnectionFragment$ConnectionCallback
+ com.example.objectdetectionlivefeed.livefeed.CameraConnectionFragment$ErrorDialog
+ com.example.objectdetectionlivefeed.livefeed.CameraConnectionFragment$ErrorDialog$1
